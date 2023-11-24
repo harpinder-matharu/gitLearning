@@ -120,8 +120,6 @@ When reviewing, provide feedback, including:
 
 Provide clear explanations and suggestions for improvement if there are issues. If the pull request is good, approve it for merging. Remember, code review is a collaborative process, so maintain a positive and constructive tone.
 
-**Author:** Ashish
-
 # Helpful Links
 
 - [Repositories documentation - GitHub Docs](https://docs.github.com/en/repositories)
